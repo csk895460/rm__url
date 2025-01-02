@@ -1,6 +1,6 @@
 {
     "name": "Bot",
-    "description": "Cfgdwra23_473_t_bot",
+    "description": "cff",
     "stack": "heroku-22",
     "keywords": [
       "telegram"
@@ -9,7 +9,7 @@
     "repository": "",
     "env": {
       "BOT_TOKEN": {
-        "description": "8027464304:AAGNwKw-BbsZMTFcGXfMMOZ2OhmXQYIVIhw",
+        "description": " BbsZMTFcGXfMMOZ2OhmXQYIVIhw",
         "value": ""
       },
       "API_ID": {
