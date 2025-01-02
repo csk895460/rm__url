@@ -36,7 +36,7 @@ class Script(object):
     START_MESSAGE = (
         " {mention}\n\nSend any link or set of links in a txt file to download them."
     )
-    DEV_MESSAGE = """👋 Hey there, I'm 𝄟⃝🐬🇵ʀɪʏᴀ𝄟⃝🐬 – your go-to Telegram bot developer!
+    DEV_MESSAGE = """👋 Hey there, I'm 𝄟⃝🐬 ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™.🐬 – your go-to Telegram bot developer!
 
 🤖 Love having bots that do the heavy lifting for you? That's my jam! I'm all about crafting super cool and custom Telegram bots that make your life a breeze.
 
@@ -69,13 +69,13 @@ Let's bot up and have some fun! 🤘"""
 🆔 User ID: `{user_id}`
 👤 User: {mention}
 """
-    DOWNLOADING = """📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ 📥 :- {start_index}/{end_index}
+    DOWNLOADING = """📥  ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™. 📥 :- {start_index}/{end_index}
 
 📝 Name » {link_no}) » {name}
 
 Original Index: {orginal_start_index}/{orginal_end_index}
 
-[𝄟⃝🐬🇵ʀɪʏᴀ𝄟⃝🐬](https://t.me/Reason_Someone)"""
+[𝄟⃝🐬 ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳 🐬](https://t.me/prashantbots)"""
 
     DEFAULT_CAPTION = """[📁] File_ID : {file_index}
 
@@ -85,7 +85,7 @@ Original Index: {orginal_start_index}/{orginal_end_index}
 
 📚 Bᴀᴛᴄʜ Nᴀᴍᴇ : {batch_name}
 
-Dᴏᴡɴʟᴏᴀᴅᴇᴅ Bʏ : [𝄟⃝🐬🇵ʀɪʏᴀ𝄟⃝🐬](https://t.me/ReaSon_SomeOne_Bot)"""
+Dᴏᴡɴʟᴏᴀᴅᴇᴅ Bʏ : [𝄟⃝🐬 ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™.🐬](https://t.me/prashantbots)"""
 
 
     CAPTION_CB = """**Set Caption
