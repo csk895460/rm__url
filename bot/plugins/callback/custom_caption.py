@@ -33,9 +33,9 @@ async def custom_caption(bot: Client, query: CallbackQuery):
     )
 
     markup = [
-        [InlineKeyboardButton("ᴇɴᴀʙʟᴇ / ᴅɪsᴀʙʟᴇ", "toggle_custom_caption")],
-        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄᴀᴘᴛɪᴏɴ", "set_caption")],
-        [InlineKeyboardButton("ʙ ᴀ ᴄ ᴋ ⋟", "start")],
+        [InlineKeyboardButton(" ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™./ @Prashant_freecourse_bot", "toggle_custom_caption")],
+        [InlineKeyboardButton(" ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™.", "set_caption")],
+        [InlineKeyboardButton(" ❖ 𝐏𝐑𝐀𝐒𝐇𝐀𝐍𝐓 𝐒𝐈𝐍𝐆𝐇🇮🇳  ❖ ™.", "start")],
     ]
 
     markup = InlineKeyboardMarkup(markup)
